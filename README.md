@@ -18,6 +18,9 @@ The prebuild packages can be downloaded from:
 * Firefox: http://www.korstiaan.com/so-zoho/so-zoho.xpi
 * Chrome: http://www.korstiaan.com/so-zoho/so-zoho.crx
 
+Click [here](https://github.com/korstiaan/chrome-so-zoho#download) for instructions on how to
+install the Chrome extension.
+
 ## Development
 
 Coffeescript is used for Javascript compilation, and CSS is compiled from SASS.
