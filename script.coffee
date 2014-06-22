@@ -14,6 +14,4 @@ do ($ = jQuery) ->
     if comment.val().length == 0
       return
 
-    unless confirm 'Comment is not empty, are you sure?'
-      return false
-
+    confirm 'Comment is not empty, are you sure?'

@@ -13,9 +13,7 @@
       if (comment.val().length === 0) {
         return;
       }
-      if (!confirm('Comment is not empty, are you sure?')) {
-        return false;
-      }
+      return confirm('Comment is not empty, are you sure?');
     });
   })(jQuery);
 
