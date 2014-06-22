@@ -24,6 +24,8 @@ Coffeescript is used for Javascript compilation, and CSS is compiled from SASS.
 
 Dependencies (currently only jQuery) are managed with [bower](http://bower.io/).
 
+    $ bower install
+
 Development for the Firefox addon takes place at: https://github.com/korstiaan/firefox-so-zoho
 Development for the Chrome extension takes place at: https://github.com/korstiaan/chrome-so-zoho
 
